@@ -1,2 +1,2 @@
 # watchandgrow
-"Watch and Grow" is  online food delivery mobile application.
+"Watch and Grow" is  online education mobile application.
